@@ -1,3 +1,5 @@
 temp/new untested code - A
 
-test function1 of Feature A
+test function1 of Feature A - OK, no bugs
+
+test function1 of Feature B - OK, no bugs 
